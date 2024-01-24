@@ -3,5 +3,6 @@
 
 TEST(EXM,DADAD){
 
-    EXPECT_TRUE(true);
+    
+    EXPECT_EQ(2,add(1,1));
 }
